@@ -1,0 +1,210 @@
+.h7{
+position: absolute;
+top: 80px;
+left: 550px;
+font-family: "Open Sans", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+font-variation-settings:
+  "wdth" 100;
+}
+.h8{
+    position: absolute;
+    top: 100px;
+    left: 550px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 676;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+
+}
+.logo{
+    width: 120px;
+    position: absolute;
+    left: 50px;
+    top: -25px;
+}
+.h9{
+    position: absolute;
+    left: 1050px;
+    color: black;
+}
+.hr1{
+    position: relative;
+    top: 50px;
+}
+.logo1{
+    width: 30px;
+    position: absolute;
+    top: 195px;
+    left: 590px;
+}
+.logo2{
+    width: 30px;
+    position: absolute;
+    top: 190px;
+    left: 550px;
+}
+.Credit{
+    position: absolute;
+    top: 230px;
+    left: 550px;
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 1px;
+
+
+}
+.Name{
+    position: absolute;
+    top: 310px;
+    left: 550px;
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+
+    border: solid 1px;
+
+}
+.f1{
+    position: absolute;
+    top: 350px;
+    left: 550px;
+    width: 235px;
+    border-radius: 5px;
+    height: 20px;
+    border: none;
+    background: rgb(188, 188, 188);
+}
+.fa-credit-card{
+    position: absolute;
+    top: 235px;
+    left: 780px;
+    color: rgb(112, 107, 107);
+}
+.Expiration{
+    position: absolute;
+    top: 270px;
+    left: 550px;
+    width: 120px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 1px;
+}
+.CVV{
+    position: absolute;
+    top: 270px;
+    left: 680px;
+    width: 120px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 1px;
+
+
+}
+.h10{
+    display: inline-block;
+    position: absolute;
+    top: -20px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 676;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.h12{
+    display: inline-block;
+    position: absolute;
+    top: -4px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.h11{
+    display: inline-block;
+    position: absolute;
+    top: -15px;
+    left: 195px;
+    color: blue;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 676;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.h13{
+    display: inline-block;
+    position: absolute;
+    top: 370px;
+    left: 550px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.h14{
+    display: inline-block;
+    position: absolute;
+    top: 410px;
+    left: 550px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.h15{
+    display: inline-block;
+    position: absolute;
+    top: 560px;
+    left: 565px;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 676;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.check{
+    display: inline-block;
+    position: absolute;
+    top: 580px;
+    left: 545px;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+
+}
+.button{
+    position: absolute;
+    left: 550px;
+    top: 600px;
+    width: 300px;
+    height: 50px;
+    background: red;
+    border: red;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
