@@ -19,6 +19,33 @@ This project is designed to mimic the Netflix interface by providing a structure
 - **Subscription Page:** Plan selection with pricing details.
 - **Footer:** Links to policies and social media icons.
 
+
+## 📂 Project Structure  
+```
+Netflix-Clone/
+│── 📄 Credit gift.html            # Page for redeeming Netflix gift cards
+│── 🎨 Credit gift.css             # Styles for the gift card redemption page
+│── 📄 Enter your card.html        # Page for entering credit/debit card details
+│── 🎨 Enter your card.css         # Styling for the card input page
+│── 📄 Forget-password.html        # Password reset page for users
+│── 🎨 Forget-password.css         # Styling for the password reset page
+│── 📄 Get started 1 of 1.html     # First step of the Netflix sign-up process
+│── 🎨 Get started 1 of 1.css      # Styles for the first sign-up page
+│── 📄 get started 2 of 2.html     # Second step of the sign-up process
+│── 🎨 get started 2 of 2.css      # Styles for the second sign-up page
+│── 📄 get started 3 of 3.html     # Third step of the sign-up process
+│── 🎨 get started 3 of 3.css      # Styles for the third sign-up page
+│── 📄 Set up your credit.html     # Page to confirm and finalize payment method
+│── 🎨 Set up your credit.css      # Styling for the credit setup page
+│── 📄 Sign in.html                # Netflix login page for users
+│── 🎨 Sign in.css                 # Styling for the login page
+│── 📄 choose how to buy.html      # Page to select a subscription plan
+│── 🎨 choose how to buy.css       # Styling for the subscription selection page
+│── 📄 leaving so soon.html        # Page prompting users when they cancel/exit
+│── 📄 README.md                   # Project documentation
+```
+
+
 ## 🎬 Technology Used
 - **HTML**: Page structure.
 - **CSS**: Styling and layout.
@@ -31,7 +58,7 @@ This project is designed to mimic the Netflix interface by providing a structure
 ## ⚒️ Author
 Created by **[Muaddh Alsway]**
 
-## 🔗 Notes
+## 📜 Notes
 For learning purposes only, not affiliated with Netflix.
 
 
