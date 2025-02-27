@@ -69,6 +69,10 @@ Netflix-Clone/
 ## ⚒️ Author
 Created by **[Muaddh Alsway]**
 
+## 🧑‍💻 Contribution
+
+If you'd like to contribute, feel free to fork the repository and submit a pull request.
+
 ## 📜 Notes
 For learning purposes only, not affiliated with Netflix.
 
