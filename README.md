@@ -45,6 +45,17 @@ Netflix-Clone/
 │── 📄 README.md                   # Project documentation
 ```
 
+## 📥 Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/MuaddhAlsway/Netflix..
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd Netflix..
+   ```
+3. Open `index.html` in your browser.
 
 ## 🎬 Technology Used
 - **HTML**: Page structure.
