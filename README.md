@@ -1,4 +1,4 @@
-#  🚀 Project Update: Netflix Front-End Study
+#  🚀 *Project Update: Netflix Front-End Study*
 
 <img width="100%"  alt="Screenshot 2024-04-27 222630" src="https://github.com/user-attachments/assets/20fa6f63-a082-41b2-836b-eb23b15be88e" />
 
